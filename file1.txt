@@ -1,0 +1,2 @@
+Hi Lakshmi,
+This is another file of information which is used to test the rebasing concept in git_branching
