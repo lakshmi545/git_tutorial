@@ -1,1 +1,2 @@
 In this file i am going to run the command git pull origin master to pull all the latest information from the master branch in my remote repository
+adding the information to see the difference between previousn staged file and untracked file by using the diff command
